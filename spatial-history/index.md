@@ -1,4 +1,4 @@
-# This Map Should Deal with a Historical Topic You Care About
+# Where is Vinland?
 
 Your first task will be to locate some real places.  You can get the precise locations at various services, e.g [latlong.net](http://www.latlong.net/).
 
