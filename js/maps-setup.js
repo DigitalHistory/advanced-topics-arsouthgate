@@ -21,24 +21,24 @@ var blue_markers = [];
 // this is for fun, if you want it.  With this powerful feature you can add arbitrary
 // data layers to your map.  It's cool. Learn more at:
 // https://developers.google.com/maps/documentation/javascript/datalayer#load_geojson
-var myGeoJSON= {
-  "type":"FeatureCollection",
-  "features":
-  [{"type":"Feature",
-    "properties":{myColor: 'red'},
-    "myColor" : "red",
-    "geometry":{"type":"Polygon",
-                "coordinates":[[[-56.588102,50.791896],[-69.420133,48.165926],
-                                [-70.650602,41.376629],[-52.808805,46.799896],
-                                [-55.533414,51.595693]]]}},
-   {"type":"Feature",
-    "properties":{myColor: 'green'},
-    "myColor" : "green",
-     "geometry":{"type":"Polygon",
-                 "coordinates":[[[-113.203125,58.35563036280967],[-114.78515624999999,51.944264879028765],
-                                 [-101.6015625,51.944264879028765],[-112.32421875,58.263287052486035],
-                                 [-113.203125,58.35563036280967]]]
-                }}]};
+//var myGeoJSON= {
+  //"type":"FeatureCollection",
+  //"features":
+  //[{"type":"Feature",
+    //"properties":{myColor: 'red'},
+    //"myColor" : "red",
+    //"geometry":{"type":"Polygon",
+      //          "coordinates":[[[-56.588102,50.791896],[-69.420133,48.165926],
+        //                        [-70.650602,41.376629],[-52.808805,46.799896],
+          //                      [-55.533414,51.595693]]]}},
+//   {"type":"Feature",
+  //  "properties":{myColor: 'green'},
+    //"myColor" : "green",
+     //"geometry":{"type":"Polygon",
+      //           "coordinates":[[[-113.203125,58.35563036280967],[-114.78515624999999,51.944264879028765],
+        //                         [-101.6015625,51.944264879028765],[-112.32421875,58.263287052486035],
+          //                       [-113.203125,58.35563036280967]]]
+            //    }}]};
 
 
 
@@ -108,9 +108,9 @@ function initializeMap() {
         var listener = google.maps.event.addListener(marker, 'click', function() {
             // if you want to allow multiple info windows, uncomment the next line
             // and comment out the two lines that follow it
-          //  this.info.open(this.map, this);
-            infowindow.setContent (this.window_content);
-            infowindow.open(my_map, this);
+            this.info.open(this.map, this);
+          //  infowindow.setContent (this.window_content);
+            //infowindow.open(my_map, this);
         });
         my_markers.push({marker:marker, listener:listener});
         if (all_my_markers[j].icon == blueURL ) {
