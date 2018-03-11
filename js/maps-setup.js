@@ -75,19 +75,19 @@ function initializeMap() {
              title: "third Marker",
              window_content: //'<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
              //'<blockquote>quote quote quote quote</blockquote>'
-             "<h1>Markland</h1><p>Brattahlíð</p>"
+             "<h1>Markland</h1><p>Markland translates to 'Forest Land' and, although it's location has not be proven, based on the physical descriptions it is likely to be somehwere in Labrador.</p>"
            },
            {position: new google.maps.LatLng(51.595693,-55.533414),
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "fourth Marker",
-            window_content: "<h1>L'anse aux Meadows</h1><p> and <a href='http://something'>this would</a> Helluland/Baffin Island</p>"
+            window_content: "<h1>L'anse aux Meadows</h1><p>L'anse ay Meadows is the only confirmed Viking settlement in North America. It's discovery in 1960 re-opened the discussion concerning Vinland, and proves that Vikings did indeed come to North America.</p>"
           },
           {position: new google.maps.LatLng(47.838809,-59.377550),
            map: my_map,
            icon: blueURL, // this sets the image that represents the marker in the map
            title: "fifth Marker",
-           window_content: "<h1>Point Rosee</h1><p> and <a href='http://something'>this would</a> Groswater bay/markland</p>"
+           window_content: "<h1>Point Rosee</h1><p>If proven, the discovery of a second Viking settlement in Newfoundland would make the long-term precense of Vikings in North America irrefutable.</p>"
          },
             ];
 
