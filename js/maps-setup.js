@@ -56,38 +56,38 @@ function initializeMap() {
                                  my_map_options);
     // this is an *array* that holds all the marker info
     var all_my_markers =
-            [{position: new google.maps.LatLng(51.595693,-55.533414),
+            [{position: new google.maps.LatLng(61.149636,-45.514771),
               map: my_map,
               icon: blueURL, // this sets the image that represents the marker in the map to the one
                              // located at the URL which is given by the variable blueURL, see above
               title: "first Marker",
-              window_content: "<h1>Marker1</h1><p>L'anse aux Meadows</p>"
+              window_content: "<h1>Brattahlíð</h1><p>Brattahlíð is Eirik the Red's homestead in Greenland, and the starting point for most of the expeditions to Vinland.</p>"
              },
-             {position: new google.maps.LatLng(47.838809,-59.377550),
+             {position: new google.maps.LatLng(65.421505,-70.965421),
               map: my_map,
               icon: blueURL, // this sets the image that represents the marker in the map
               title: "second Marker",
-              window_content: "<h1>Marker2</h1><p> and <a href='http://something'>this would</a> Point Rosee</p>"
+              window_content: "<h1>Helluland</h1><p>Helluland translates to 'Land of Stone Slabs' and the physical descriptions in the saga's make Baffin Island a likely contendor.</p>"
             },
-            {position: new google.maps.LatLng(61.149636,-45.514771),
+            {position: new google.maps.LatLng(54.311621, -57.762627),
              map: my_map,
              icon: blueURL, // this sets the image that represents the marker in the map
              title: "third Marker",
              window_content: //'<h1>Marker3</h1><img title="Picture of Quote. Src: someone, some year"  src="https://s-media-cache-ak0.pinimg.com/736x/6d/e2/25/6de2251b8b4be709dcc936ae4f0caaaf.jpg"/>' +
              //'<blockquote>quote quote quote quote</blockquote>'
-             "<h1>Marker3</h1><p>Brattahlíð</p>"
+             "<h1>Markland</h1><p>Brattahlíð</p>"
            },
-           {position: new google.maps.LatLng(65.421505,-70.965421),
+           {position: new google.maps.LatLng(51.595693,-55.533414),
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "fourth Marker",
-            window_content: "<h1>Marker4</h1><p> and <a href='http://something'>this would</a> Helluland/Baffin Island</p>"
+            window_content: "<h1>L'anse aux Meadows</h1><p> and <a href='http://something'>this would</a> Helluland/Baffin Island</p>"
           },
-          {position: new google.maps.LatLng(54.311621, -57.762627),
+          {position: new google.maps.LatLng(47.838809,-59.377550),
            map: my_map,
            icon: blueURL, // this sets the image that represents the marker in the map
            title: "fifth Marker",
-           window_content: "<h1>Marker5</h1><p> and <a href='http://something'>this would</a> Groswater bay/markland</p>"
+           window_content: "<h1>Point Rosee</h1><p> and <a href='http://something'>this would</a> Groswater bay/markland</p>"
          },
             ];
 
