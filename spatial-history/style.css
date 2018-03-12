@@ -6,7 +6,7 @@ div.container {
 
 div#mapcontainer {
   font-family:Arial, sans-serif;
-  font-size:11px;
+  font-size:12px;
   border:6px double #5E5C63;
   width:66%;
   float:left;
@@ -25,7 +25,7 @@ div#map_canvas {
 have to add some extra css to the mapcontainer div */
 div#map_legend {
     max-width:600%;
-    float:left;
+    float:right;
 }
 
 /* if you want, you can make the text in the legend less ugly by adding
@@ -36,7 +36,7 @@ div#map_legend h1, div#map_legend h3 {
 
 // make it obvious that the legend text is clickable
 div.pointer {
-    cursor:pointer
+    cursor:pointer;
 }
 
 /*just for fun, we can style the buttons using classes
@@ -63,7 +63,7 @@ button#show {
 
 */
 
-div#map_canvas h1 {
+div#map_canvas h1 {font-size:5px;
 
 }
 
