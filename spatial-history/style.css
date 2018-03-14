@@ -18,13 +18,13 @@ div#mapcontainer {
    but constrain the height
 */
 div#map_canvas {
-  height:450px;
+  height:500px;
 }
 
 /* this is the legend div. Can you make it into a right sidebar? you may
 have to add some extra css to the mapcontainer div */
 div#map_legend {
-    max-width:30%;
+    max-width:600%;
     float:left;
 }
 
