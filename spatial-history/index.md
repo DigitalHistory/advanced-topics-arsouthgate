@@ -1,11 +1,7 @@
 # Where is Vinland?
 Vinland, or “Wineland,” is the name for a location with a prominent place in the Viking sagas. It has long been thought to be the Viking name for North America, but until 1960 there was no archeological proof. This all changed with the discovery of L’anse aux Meadows in Newfoundland, while also prompting speculation about locations such as Helluland and Markland which were previously thought to be purely fictional. In 2015 another settlement was found in Newfoundland, which has allowed archaeologists to further argue that Vinland is indeed located on the east coast of North America. This webpage will combine archeological findings with close readings of the Viking texts known as the Vinland Sagas in order to pinpoint some of these locations.
 
-
-
-
-
-
+<div class="break">
 <div class="markers">
   <!-- these buttons hide/show all the markers  -->
   <!-- to hide/show blue or red markers instead, change my_markers below to blue_markers
@@ -18,19 +14,11 @@ Vinland, or “Wineland,” is the name for a location with a prominent place in
   </div>
   <div id="map_legend"></div>
 </div>
-
-
-
-
-
-
-
-
-
+<div class="break">
 
 # The Vinland Sagas
 
-The two texts which are together known as the Vinland Sagas are actually found in a larger body of text known as the *Icelandic Sagas*. *The Icelandic Sagas* differ from other Nordic texts because they are particularly known for their historical accuracy. While other stories describe Viking gods and legends involving magic, many of the events of the *Icelandic Sagas* are easily proven to have historic merit. In particular, genealogies are easily corroborated by other official records and place names with etymological ties to Viking words can help to prove the existence of Viking settlers[^1]. Proving the historical accuracy of the sagas is ultimately almost impossible, because they are oral stories that were not written down until much after the events occurred. Lars Lönnroth states that "most of these sagas have a historical core and draw
+The two texts which are together known as the Vinland Sagas are actually found in a larger body of text known as the *Icelandic Sagas*. *The Icelandic Sagas* differ from other Nordic texts because they are particularly known for their historical accuracy. While other stories describe Viking gods and legends involving magic, many of the events of the *Icelandic Sagas* are easily proven to have historic merit. In particular, genealogies are easily corroborated by other official records and place names with etymological ties to Viking words can help to prove the existence of Viking settlers[^1]. Proving the historical accuracy of the sagas is difficult because they are oral stories that were not written down until much after the events occurred. As Lars Lönnroth states that "most of these sagas have a historical core and draw
 on oral tradition and traditional storytelling while the large form and means of composition are a literary development."[^2] Thus it is clear that there is some historical value to the sagas and they are worth understanding in order to get a full picture of Viking settlement and society.
 
 The Vinland Sagas themselves are divided into two texts: *Eirik the Red’s Saga* and *The Saga of the Greenlanders*, which chronicle the expeditions of Leif Erikson and Thorfinn Karlsefni as the venture west. Like most Viking texts, the sagas have a roundabout approach to storytelling and actually begin with the story of Leif Eriksson’s father, Eirik Thorvaldsson, banishment to Greenland.[^3] Known as Eirik the Red, he traveled throughout Greenland establishing settlements and naming landmarks, eventually settling in Brattahlíð.[^4] There is clear archeological evidence that Vikings did indeed establish Greenland, and it’s close proximity to North America alone makes it possible that they ventured even further west.
