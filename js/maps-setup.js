@@ -60,7 +60,7 @@ function initializeMap() {
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "fourth Marker",
-            window_content: "<h1>L'anse aux Meadows</h1><p>L'anse ay Meadows is the only confirmed Viking settlement in North America. It's discovery in 1960 re-opened the discussion concerning Vinland, and proves that Vikings did indeed come to North America.</p>"
+            window_content: "<h1>L'anse aux Meadows</h1><p>L'anse aux Meadows is the only confirmed Viking settlement in North America. It's discovery in 1960 re-opened the discussion concerning Vinland, and proves that Vikings did indeed come to North America.</p>" 
           },
           {position: new google.maps.LatLng(47.838809,-59.377550),
            map: my_map,
