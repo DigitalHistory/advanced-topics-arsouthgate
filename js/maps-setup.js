@@ -18,27 +18,6 @@ var redURL = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
 var red_markers = [];
 var blue_markers = [];
 
-// this is for fun, if you want it.  With this powerful feature you can add arbitrary
-// data layers to your map.  It's cool. Learn more at:
-// https://developers.google.com/maps/documentation/javascript/datalayer#load_geojson
-//var myGeoJSON= {
-  //"type":"FeatureCollection",
-  //"features":
-  //[{"type":"Feature",
-    //"properties":{myColor: 'red'},
-    //"myColor" : "red",
-    //"geometry":{"type":"Polygon",
-      //          "coordinates":[[[-56.588102,50.791896],[-69.420133,48.165926],
-        //                        [-70.650602,41.376629],[-52.808805,46.799896],
-          //                      [-55.533414,51.595693]]]}},
-//   {"type":"Feature",
-  //  "properties":{myColor: 'green'},
-    //"myColor" : "green",
-     //"geometry":{"type":"Polygon",
-      //           "coordinates":[[[-113.203125,58.35563036280967],[-114.78515624999999,51.944264879028765],
-        //                         [-101.6015625,51.944264879028765],[-112.32421875,58.263287052486035],
-          //                       [-113.203125,58.35563036280967]]]
-            //    }}]};
 
 
 
@@ -81,7 +60,7 @@ function initializeMap() {
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "fourth Marker",
-            window_content: "<h1>L'anse aux Meadows</h1><p>L'anse ay Meadows is the only confirmed Viking settlement in North America. It's discovery in 1960 re-opened the discussion concerning Vinland, and proves that Vikings did indeed come to North America.</p>"
+            window_content: "<h1>L'anse aux Meadows</h1><p>L'anse aux Meadows is the only confirmed Viking settlement in North America. It's discovery in 1960 re-opened the discussion concerning Vinland, and proves that Vikings did indeed come to North America.</p>" 
           },
           {position: new google.maps.LatLng(47.838809,-59.377550),
            map: my_map,
@@ -108,9 +87,9 @@ function initializeMap() {
         var listener = google.maps.event.addListener(marker, 'click', function() {
             // if you want to allow multiple info windows, uncomment the next line
             // and comment out the two lines that follow it
-            this.info.open(this.map, this);
-          //  infowindow.setContent (this.window_content);
-            //infowindow.open(my_map, this);
+          //  this.info.open(this.map, this);
+            infowindow.setContent (this.window_content);
+            infowindow.open(my_map, this);
         });
         my_markers.push({marker:marker, listener:listener});
         if (all_my_markers[j].icon == blueURL ) {
@@ -121,27 +100,7 @@ function initializeMap() {
 
     }
     document.getElementById("map_legend").innerHTML = legendHTML;
-  my_map.data.addGeoJson(myGeoJSON);
 
-  var romeCircle = new google.maps.Rectangle({
-    strokeColor: '#FF0000',
-    strokeOpacity: 0.8,
-    strokeWeight: 2,
-    fillColor: '#FF0000',
-    fillOpacity: 0.35,
-    // in general, we always have to *set the map* when we
-    // add features.
-    map: my_map,
-    bounds: {
-      north: 42.685,
-      south: 40.671,
-      east: 12.501,
-      west: 12.485
-    },
-
-    center: {"lat": 41.9000, "lng":12.5000},
-    radius: 1000
-  });
   my_map.data.setStyle(function (feature) {
     var thisColor = feature.getProperty("myColor");
     return {
