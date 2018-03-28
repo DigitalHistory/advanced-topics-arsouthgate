@@ -1,6 +1,4 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
 
-## Use headings only if you want to have subsections in your essay
 
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
@@ -8,26 +6,17 @@
               </div>
             </div>
 
+<p>Vernon Dahmer was a well-respected member of his community, a business owner, and a committed civil-rights activist. As president of the local chapter of the National Association for the Advancement of Coloured People (NAACP), he helped lead the Mississippi Summer Project (also known as the Freedom Summer) of 1964, the goal of which was to increase black voter registration. Despite incredibly violent backlash from local authorities, including the police and the Ku Klux Klan, the campaign was successful and provided key support for a bill that passed and became the 1965 _Voting Rights Act_. Dahmer continued to encourage black Americans to vote, and in 1966 he was targeted by the Ku Klux Klan and killed. Dahmer’s story demonstrates the brutality of racism in America by showing that even when successful legislation such as this is passed, it does not ensure individual safety. Understanding the context of the Freedom Summer, and the roles that people like Dahmer filled in shaping the civil-rights movement in Mississippi can help us grasp what was—and still is—at stake in the fight for equality.</p>
+
+Mississippi was a major battlefield during the civil-rights movement—if not the major battlefield—and has been described as “the worst state” because “in not another southern state was the use of terror against the black population so systematic and pervasive.” (Kyriakoudes and McDaniel 65). A coalition of organizations including the Student Nonviolent Coordinating Committee (SNCC), the Council of Federated Organizations (COFO), the Southern Christian Leadership Conference (SCLC), and the NAACP, the Mississippi Summer Project had two aims: “the intensification of voter registration and educational activity,” and “the establishment of freedom schools and community centers throughout Mississippi” (Rachal 315). Because of the racial-tension in Mississippi, the project announcement received tremendous backlash from white officials who saw it as a threat to “our way of life” (Rachel 316). In the months leading up to the the project “the legislature scurried to introduce bills outlawing picketing, distribution of leaflets, unlicensed freedom schools, and other anti-Summer Project legislation” (Rachel 320). These legislative maneuvers did not work and on 21 June 1964, volunteers began to pour into the state.
+
+Arrests began in Mississippi immediately upon the arrival of volunteers and protesters, and carried on through the summer, reaching an estimated total of one thousand (Rachel 322). Charges varied widely—including such offences as traffic violations and distributing leaflets without a permit—with the aim of halting the proceedings removing activists from the streets (Rachal 322). As Rachal notes; however, “despite their tenacity in subduing COFO workers . . . Mississippi law enforcement was remarkably inept at catching local whites who assaulted, shot, shot at, tried to run over, or verbally harassed (often in the coarsest language) COFO staff or volunteers” (Rachal 322). Violence was widespread and countless people fell victim to it, but the real fear was what would happen once the out-of-state volunteers returned home at summer’s end. It was feared that without the protection of larger numbers, the local activists would become even easier targets. Even as the official Summer Project ended, people such as Vernon Dahmer continued to uphold the ideals of the movement and work towards the aim of freedom and equality.
+
+Alan Draper and other civil rights historians have noted the important role that elite and upper-class black Americans played in the movement because “political activism required not only uncommon courage but also time, social skills, and economic security that relatively privileged black Mississippians were more likely to possess.” (Draper 284). Dahmer is an excellent example of this, because as the owner of a two-hundred-acre commercial farm, a sawmill, and a grocery store he commanded “tremendous respect” from black and white Americans alike (https://www.splcenter.org/vernon-dahmer). He used his influence not only to lead the local NAACP chapter, but to campaign for voting rights. Even after the 1965 Voting Rights Act was passed, Dahmer continued to use his money and influence to help break down the barriers to voting. On 9 Jan. 1966, he went on local radio and made a public offer to pay the poll taxes for those that could not afford it (https://www.splcenter.org/vernon-dahmer). He was killed for this.
+
+The Ku Klux Klan firebombed Dahmer’s house the same night as his poll-tax offer, killing him but failing to kill his wife, Ellie, and daughter, Bettie. In the attached audio clip they describe the terror of that night, and how Dahmer sacrificed himself to save his daughter. He handed Bettie out the window to save her, sustaining horrific burns in the process but “he never did complain. He was just concerned about Bettie” (audio). As you can tell from the audio clip, this attack was devastating to the family and demonstrates the price that many people had to pay—and were willing to pay—in order to secure rights for others. As Ellie states, “he knew that he might get killed, and he was willing to take the risk” (audio).
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
-
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
 
 
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+ <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
