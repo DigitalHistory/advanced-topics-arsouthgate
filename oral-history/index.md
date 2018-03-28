@@ -14,19 +14,17 @@ Arrests began in Mississippi immediately upon the arrival of volunteers and prot
 
 Alan Draper and other civil rights historians have noted the important role that elite and upper-class black Americans played in the movement because “political activism required not only uncommon courage but also time, social skills, and economic security that relatively privileged black Mississippians were more likely to possess.”[^8] Dahmer is an excellent example of this, because as the owner of a two-hundred-acre commercial farm, a sawmill, and a grocery store he commanded “tremendous respect” from black and white Americans alike.[^9] He used his influence not only to lead the local NAACP chapter, but to campaign for voting rights. Even after the 1965 Voting Rights Act was passed, Dahmer continued to use his money and influence to help break down the barriers to voting. On 9 Jan. 1966, he went on local radio and made a public offer to pay the poll taxes for those that could not afford it.[^10] He was killed for this.
 
-The Ku Klux Klan firebombed Dahmer’s house the same night as his poll-tax offer, killing him but failing to kill his wife, Ellie, and daughter, Bettie. In the attached audio clip they describe the terror of that night, and how Dahmer sacrificed himself to save his daughter. He handed Bettie out the window to save her, sustaining horrific burns in the process but he <a href="#" onclick="javascript:seek(53)">“never did complain. He was just concerned about [Bettie].”</a> As you can tell from the audio clip, this attack was devastating to the family and demonstrates the price that many people had to pay—and were willing to pay—in order to secure rights for others. As Ellie states, <a href="#" onclick="javascript:seek(74)">“he knew that he might get killed, and he was willing to take the risk.”
+The Ku Klux Klan firebombed Dahmer’s house the same night as his poll-tax offer, killing him but failing to kill his wife, Ellie, and daughter, Bettie. In the attached audio clip they describe the terror of that night, and how Dahmer sacrificed himself to save his daughter. He handed Bettie out the window to save her, sustaining horrific burns in the process but he <a href="#" onclick="javascript:seek(53)">“never did complain. He was just concerned about [Bettie].”</a> As you can tell from the audio clip, this attack was devastating to the family and demonstrates the price that many people had to pay—and were willing to pay—in order to secure rights for others. As Ellie states, <a href="#" onclick="javascript:seek(74)">“he knew that he might get killed, and he was willing to take the risk.”[^11]
 
 
-
-
-
- [^1]: [Kyriakoudes and McDaniel 65](http://muse.jhu.edu.myaccess.library.utoronto.ca/article/567250).
- [^2]: [Rachal 315](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
+ [^1]: [Louis M. Kyriakoudes and Hayden Noel McDaniel, "Listening to Freedom's Voices: Forty-Four Years of Documenting the Mississippi Civil Rights Movement," _The Southern Quarterly_ 52, no. 1 (2014): 65](http://muse.jhu.edu.myaccess.library.utoronto.ca/article/567250).
+ [^2]: [John R. Rachal, "'The Long Hot Summer': The Mississippi Response to Freedom Summer, 1964," _The Journal of Negro History_ 84, no. 4 (1999): 315](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
  [^3]:[Ibid., 316](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
  [^4]: [Ibid., 320](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
  [^5]: [Ibid., 322](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
- [^6]: (Rachal 322)
- [^7]: (Rachal 322).
- [^8]: (Draper 284).
- [^9]: (https://www.splcenter.org/vernon-dahmer)
- [^10]: (https://www.splcenter.org/vernon-dahmer).
+ [^6]: [Ibid., 322](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
+ [^7]: [Ibid., 322](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/2649035.pdf?refreqid=excelsior%3A87da9ac309c96d6740d6f6c2991be8f9)
+ [^8]: [Alan Draper,"Class and Politics in the Mississippi Movement: An Analysis of the Mississippi Freedom Democratic Party Delegation," _Journal of Southern History_ 82, no 2 (2016): 284](https://getit.library.utoronto.ca/index.php/oneclick?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Class+and+Politics+in+the+Mississippi+Movement%3A+An+Analysis+of+the+Mississippi+Freedom+Democratic+Party+Delegation&rft.jtitle=Journal+of+Southern+History&rft.au=Draper%2C+Alan&rft.date=2016&rft.pub=The+Southern+Historical+Association&rft.issn=0022-4642&rft.eissn=2325-6893&rft.volume=82&rft.issue=2&rft.spage=269&rft.epage=304&rft_id=info:doi/10.1353%2Fsoh.2016.0100&rft.externalDocID=616987_S2325689316200012)
+ [^9]:["Vernon Dahmer," The Southern Poverty Law Center](https://www.splcenter.org/vernon-dahmer)
+ [^10]:[Ibid.](https://www.splcenter.org/vernon-dahmer).
+ [^11]:[Ellie Dahmer has also participated in a more in-depth oral history project run by the University of Southern Mississippi](http://digilib.usm.edu/cdm/ref/collection/coh/id/15828)
