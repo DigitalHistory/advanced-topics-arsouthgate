@@ -26,19 +26,22 @@ Although it is easy to widely disseminate information in the digital age, it con
 
 ## Budget
 
+
 |  Small Team Grant:<br/>This grant funds up to $50,000 of work by a small team, in a period of 1-3 years. |  |  |
 |  :------ | ------ | ------ |
 |   |  |  |
-|   | Program<br/>YR1 | Program<br/>YR2 |
-|  Revenue and Other Support |  |  |
+|   | **Program<br/>YR1** | **Program<br/>YR2** |
+|  **Revenue and Other Support** |  |  |
 |  Gifts from individuals |  |  |
 |  Grants from foundations | 25000 | 25000 |
 |  Royalties, honoraria, and sale of materials |  |  |
 |   |  |  |
 |  Total Revenue and Other Support | 25000 | 25000 |
 |   |  |  |
-|   | Program<br/>YR1 | Program<br/>YR2 |
-|  Expenses |  |  |
+|   |  |  |
+|   |  |  |
+|   | **Program<br/>YR1** | **Program<br/>YR2** |
+|  **Expenses** |  |  |
 |  Staff salaries | 5000 | 5000 |
 |  Staff benefits and insurance |  |  |
 |  Books, subscriptions, directories and dues | 1000 | 1000 |
@@ -52,9 +55,9 @@ Although it is easy to widely disseminate information in the digital age, it con
 |  Telephone equipment and services | 1000 | 1000 |
 |  Travel, meetings, and conferences | 2000 | 2000 |
 |   |  |  |
-|  Total Expenses | 23100 | 23100 |
+|  **Total Expenses** | 23100 | 23100 |
 |   |  |  |
-|  Surplus/(Deficit) | 1900 | 1900 |
+|  **Surplus/(Deficit)** | 1900 | 1900 |
 
 
 [^1]: ["About," National Security Archive. ](https://nsarchive.gwu.edu/about)
