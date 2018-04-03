@@ -27,37 +27,41 @@ Although it is easy to widely disseminate information in the digital age, it con
 ## Budget
 
 
-|  Small Team Grant:<br/>This grant funds up to $50,000 of work by a small team, in a period of 1-3 years. |  |  |
-|  :------ | ------ | ------ |
-|   |  |  |
-|   | **Program<br/>YR1** | **Program<br/>YR2** |
-|  **Revenue and Other Support** |  |  |
-|  Gifts from individuals |  |  |
-|  Grants from foundations | 25000 | 25000 |
-|  Royalties, honoraria, and sale of materials |  |  |
-|   |  |  |
-|  Total Revenue and Other Support | 25000 | 25000 |
-|   |  |  |
-|   |  |  |
-|   |  |  |
-|   | **Program<br/>YR1** | **Program<br/>YR2** |
-|  **Expenses** |  |  |
-|  Staff salaries | 5000 | 5000 |
-|  Staff benefits and insurance |  |  |
-|  Books, subscriptions, directories and dues | 1000 | 1000 |
-|  Computer equipment, supplies and services | 5000 | 5000 |
-|  Depreciation and amortization | 1000 | 1000 |
-|  Office equipment, supplies and services | 2000 | 2000 |
-|  Postage | 50 | 50 |
-|  Printing and publications | 50 | 50 |
-|  Professional fees, consultants, and honoraria | 1000 | 1000 |
-|  Rent, document storage, and parking | 5000 | 5000 |
-|  Telephone equipment and services | 1000 | 1000 |
-|  Travel, meetings, and conferences | 2000 | 2000 |
-|   |  |  |
-|  **Total Expenses** | 23100 | 23100 |
-|   |  |  |
-|  **Surplus/(Deficit)** | 1900 | 1900 |
+|  Small Team Grant:<br/>This grant funds up to $50,000 of work by a small team, in a period of 1-3 years. |  |  |  |
+|  :------ | ------ | ------ | ------ |
+|   |  |  |  |
+|   | **Program<br/>YR1** |  | **Program<br/>YR2** |
+|  **Revenue and Other Support** |  |  |  |
+|  Gifts from individuals |  |  |  |
+|  Grants from foundations | 25000 |  | 25000 |
+|  Royalties, honoraria, and sale of materials |  |  |  |
+|   |  |  |  |
+|  Total Revenue and Other Support | 25000 |  | 25000 |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   | **Program<br/>YR1** |  | **Program<br/>YR2** |
+|  **Expenses** |  |  |  |
+|  Staff salaries | 5000 |  | 5000 |
+|  Staff benefits and insurance |  |  |  |
+|  Books, subscriptions, directories and dues | 1000 |  | 1000 |
+|  Computer equipment, supplies and services | 5000 |  | 5000 |
+|  Depreciation and amortization | 1000 |  | 1000 |
+|  Office equipment, supplies and services | 2000 |  | 2000 |
+|  Postage | 50 |  | 50 |
+|  Printing and publications | 50 |  | 50 |
+|  Professional fees, consultants, and honoraria | 1000 |  | 1000 |
+|  Rent, document storage, and parking | 5000 |  | 5000 |
+|  Telephone equipment and services | 1000 |  | 1000 |
+|  Travel, meetings, and conferences | 2000 |  | 2000 |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|  **Total Expenses** | 23100 |  | 23100 |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|  **Surplus/(Deficit)** | 1900 |  | 1900 |
 
 
 [^1]: ["About," National Security Archive. ](https://nsarchive.gwu.edu/about)
