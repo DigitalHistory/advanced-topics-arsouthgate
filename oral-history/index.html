@@ -7,8 +7,8 @@
   <!-- none of this displays directly in the web page.  -->
   <head>
     <meta charset="UTF-8" />
-    <title>Title Goes Here | by Your Name</title>
-    <!-- load some big magic scripts  -->
+    <title>Casualites of Freedom | by Alexandra Southgate</title>
+    <!-- load some big magic scipts  -->
     <!-- jQuery is an important framework used by many web projects  -->
     <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
 
@@ -22,27 +22,27 @@
     <!-- Our Bootstrap theme. To use another copy the appropriate URL from  -->
     <!-- https://www.bootstrapcdn.com/bootswatch/?theme=0 -->
     <link rel="stylesheet" type="text/css" media="all"
-          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css" />
+          href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/yeti/bootstrap.min.css" />
 
 
-    <!-- The web page starts by loading the complete 
+    <!-- The web page starts by loading the complete
          popcorn library from our nearby library -->
     <script src="../js/popcorn-complete.js"></script>
 
-    <!-- Then we also include a small "handmade" script that makes use 
+    <!-- Then we also include a small "handmade" script that makes use
          of commands that are defined in the earlier/dongwoo
-         script. 
-         You should uncomment one of these two scripts, depending on which method 
+         script.
+         You should uncomment one of these two scripts, depending on which method
          you would like to use.
-         
+
          If you want to make your events by hand, as we did in class, use this script: -->
     <!-- <script src="popcorn-data.js" language="javascript"></script> -->
 
-    <!-- If you would prefer to create your events in a Google Spreadsheet, use this script 
+    <!-- If you would prefer to create your events in a Google Spreadsheet, use this script
          as a base instead: -->
     <script src="../js/popcorn-data-from-google.js"></script>
 
-  </head>  
+  </head>
 
 
   <!-- The body of the web page starts here.  This is the stuff you see -->
@@ -52,7 +52,7 @@
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="#">Title Here | by Your Name</a> <!-- should be descriptive -->
+          <a class="navbar-brand" href="#">Casualites of Freedom | by Alexandra Southgate</a> <!-- should be descriptive -->
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -67,7 +67,7 @@
           <!-- this is our audio element.  It holds the audio file. -->
           <audio id="media" controls="controls">
             <!-- Make sure this points to the actual mp3 file you are analyzing -->
-            <source src="https://storycorpsorg-staging.s3.amazonaws.com/uploads/walsh2-1.mp3"
+            <source src="https://storycorpsorg-staging.s3.amazonaws.com/uploads/dahmer-1.mp3"
                     type="audio/mp3" />
           </audio>
 
@@ -83,11 +83,11 @@
       <!-- this short script dumps the contents of index.md into the
            #contentdiv div element, and renders them as HTML. Also
            declares a function to be used in links, to seek to a
-           timecode in #media 
+           timecode in #media
         -->
       <script>
         // we define the main actions of the script as a function which wil lbe run when the
-        // page resources have been completely loaded. 
+        // page resources have been completely loaded.
         var initializePage = function() {
           // instantiate the parser object and declare the
           // placeholder variable for the rendered content
@@ -97,7 +97,7 @@
               linkify: true}),
               renderedcontent = "",
               origContent = $("#contentdiv").html();
-          
+
           md.block.ruler.enable([
             'footnote',
             'deflist'

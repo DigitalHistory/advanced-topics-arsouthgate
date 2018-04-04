@@ -26,19 +26,19 @@ var loadPopcorn = function () {
     text: "Second Footnote!",
     target: "popcorn-container"
   });
-  
+
 
   // this event, which is the first one you see, is a little more complicated,
   // because it is running a complex plugin: google maps.
   pop.googlemap({     // run the googlemap plugin; note the open paren followed by open bracket
-    "start":0,   // what time, IN SECONDS, to start showing this information 
+    "start":0,   // what time, IN SECONDS, to start showing this information
     "end":30,     // what time to stop
-    "target":"popcorn-container", // where to display -- don't forget this!
+    "target":"index.html", // where to display -- don't forget this!
     type: "HYBRID", //HYBRID (default), ROADMAP, SATELLITE, TERRAIN, STREETVIEW,
     //lat: 43.665429,
     //lng: -79.403323,
     location: "Verrazano-Narrows bridge", //  The location we want our map to display at
-    zoom: 15 // Setting the zoom that we would like 
+    zoom: 15 // Setting the zoom that we would like
   });  // don't forget to close your brackets
 
   // this uses the Wikipedia plugin
@@ -65,7 +65,7 @@ var loadPopcorn = function () {
     text: "resting",
     target: "popcorn-container"
   });
-  
+
   pop.footnote({
     start: 121,
     end: 600,
